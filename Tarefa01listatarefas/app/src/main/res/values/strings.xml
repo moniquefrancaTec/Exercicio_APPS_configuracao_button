@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tarefa01-lista-tarefas</string>
+    <string name="txt_ttulo_da_tarefa">Título da Tarefa</string>
+    <string name="txt_descricao_tarefa">Descrição da Tarefa</string>
+    <string name="txt_finalizar">Finalizar</string>
+    <string name="txt_lista_de_tarefas">Lista de Tarefas</string>
+</resources>

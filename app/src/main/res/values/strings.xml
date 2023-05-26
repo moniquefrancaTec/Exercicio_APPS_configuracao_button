@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarefa03-lista-Compromisso</string>
+    <string name="txt_titulo_do_compromisso">Título do Compromisso</string>
+    <string name="txt_horario">Horário: 00:00</string>
+    <string name="txt_limpar">Limpar</string>
+    <string name="txt_salvar">Salvar</string>
+    <string name="txt_finalizar">Finalizar</string>
+    <string name="txt_local_do_compromisso">Local do Compromisso</string>
+    <string name="txt_data">Data:XX/XX/XX</string>
+</resources>
